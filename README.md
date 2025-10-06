@@ -16,6 +16,10 @@ The roadmap I’m following is inspired by KubeCraft (from Mischa van den Burg).
 
 I’m also building a HomeLab on a laptop to get hands-on with real setups. In my personal [Blog](https://www.oualidbouhorma.com) I’ll share what I’m running, what breaks, and what I add over time.
 
+## Things I've Built
+
+Soon...
+
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My first post!](https://www.oualidbouhorma.com/posts/my-first-post/)
