@@ -14,7 +14,7 @@ My goal is to build strong fundamentals and the problem-solving instincts to thr
 
 The roadmap I’m following is inspired by KubeCraft (from Mischa van den Burg). I’m focusing on solid foundations in: Linux, Python, Go, Containers, Git, and Kubernetes… with an extra serving of Kubernetes (and then a bit more Kubernetes).
 
-I’m also building a HomeLab on a laptop to get hands-on with real setups. In my personal Blog I’ll share what I’m running, what breaks, and what I add over time.
+I’m also building a HomeLab on a laptop to get hands-on with real setups. In my personal [Blog](https://www.oualidbouhorma.com) I’ll share what I’m running, what breaks, and what I add over time.
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
