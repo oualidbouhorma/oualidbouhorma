@@ -10,6 +10,10 @@ I’m Oualid Bouhorma, a Computer Engineering student documenting what I learn a
 
 My goal is to build strong fundamentals and the problem-solving instincts to thrive in fast-moving environments, minimizing blast radius, maximizing reliability. In short: I’m training to be an “expert problem solver”.
 
+## What am I learning?
+
+At the current moment I'm diving into Linux and all the basics related to it with the objective to fully understand it.
+
 ## How am I learning?
 
 The roadmap I’m following is inspired by KubeCraft (from Mischa van den Burg). I’m focusing on solid foundations in: Linux, Python, Go, Containers, Git, and Kubernetes… with an extra serving of Kubernetes (and then a bit more Kubernetes).
@@ -26,18 +30,7 @@ Soon...
 - [Hello World!](https://www.oualidbouhorma.com/about/)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-<!--
-**oualidbouhorma/oualidbouhorma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Oualid Bouhorma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oualidbouhorma&show_icons=true&hide_border=true"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
