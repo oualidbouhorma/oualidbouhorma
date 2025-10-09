@@ -26,6 +26,7 @@ Soon...
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Boot process in BIOS and UEFI](https://www.oualidbouhorma.com/posts/how-the-linux-boot-process-works-in-bios-and-uefi/)
 - [My first post!](https://www.oualidbouhorma.com/posts/my-first-post/)
 - [Hello World!](https://www.oualidbouhorma.com/about/)
 <!-- BLOG-POST-LIST:END -->
