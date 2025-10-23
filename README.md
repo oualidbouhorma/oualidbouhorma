@@ -26,10 +26,10 @@ Soon...
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the Linux Kernel?](https://www.oualidbouhorma.com/posts/lets-understand-what-is-the-linux-kernel/)
-- [Boot process in BIOS and UEFI](https://www.oualidbouhorma.com/posts/how-the-linux-boot-process-works-in-bios-and-uefi/)
-- [My first post!](https://www.oualidbouhorma.com/posts/my-first-post/)
-- [Hello World!](https://www.oualidbouhorma.com/about/)
+- [What is the Linux Kernel?](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76848b2cb0bf2f238b414dd0248436b5df552345cf269c209c8612698eea3cbce0fb6de9ed9c23a020a6)
+- [Boot process in BIOS and UEFI](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f7680812feee63228c24856cd259d75b39d4d3f09cb799a30d4810921d4e927b9e6ae29eca58c24aa3fa42b0186795a0d5505b2)
+- [My first post!](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76859775a5fb283e9b094fcc239177)
+- [Hello World!](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28c6e010b04876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
