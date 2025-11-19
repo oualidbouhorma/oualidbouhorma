@@ -26,7 +26,7 @@ Soon...
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: Ventoy, ISO download, boot, and Wi-Fi setup](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9e)
+- [Arch Part 1: Ventoy, ISO download, boot, and Wi-Fi setup](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9e)
 - [Linux File Types](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f769f8639b7bf3b3f8a095ecf3cc82cb9970f274dd57e8d7ed79b16698ef22ca2f0f06f)
 - [What is the Linux Kernel?](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76848b2cb0bf2f238b414dd0248436b5df552345cf269c209c8612698eea3cbce0fb6de9ed9c23a020a6)
 - [Boot process in BIOS and UEFI](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f7680812feee63228c24856cd259d75b39d4d3f09cb799a30d4810921d4e927b9e6ae29eca58c24aa3fa42b0186795a0d5505b2)
