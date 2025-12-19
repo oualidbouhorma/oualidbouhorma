@@ -4,7 +4,7 @@ DevOps enthusiasts seeking to learn about everything related to Linux, CLoud, Ku
 
 Keep updated about my progress in my [personal website](https://www.oualidbouhorma.com) and follow me on my social media accounts for more!
 
-## Ho am I?
+## Who am I?
 
 I’m Oualid Bouhorma, a Computer Engineering student documenting what I learn as I work my way into DevOps: Linux, Git, Docker, Kubernetes, CI/CD, and more.
 
