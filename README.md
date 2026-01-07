@@ -42,7 +42,3 @@ All of the repositories related to each one of the projects are here, in GitHub!
 - [Arch Part 2: Disk partitioning, LUKS encryption, and base system installation.](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9c821b7ed7ab67fd)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<img align="left" alt="Oualid Bouhorma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oualidbouhorma&show_icons=true&hide_border=true&theme=gotham"/>
-
