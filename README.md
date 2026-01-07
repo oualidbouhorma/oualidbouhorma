@@ -2,7 +2,7 @@
 
 DevOps enthusiasts seeking to learn about everything related to Linux, CLoud, Kubernetes, Docker and more. Giving some fuel and love to my new passion.
 
-Keep updated about my progress in my [personal website](https://www.oualidbouhorma.com) and follow me on my social media accounts for more!
+Keep updated about my progress in my [personal website](https://www.oualidbouhorma.com) and follow me on my [Linkedin](https://www.linkedin.com/in/oualidbo/) and my [X](https://x.com/oualidbouhorma) accounts for more!
 
 ## Who am I?
 
@@ -14,15 +14,24 @@ My goal is to build strong fundamentals and the problem-solving instincts to thr
 
 At the current moment I'm diving into Linux and all the basics related to it with the objective to fully understand it.
 
+Also, I'm focusing to achieve the AZ-900 Certificate and define the fundamentals of Cloud.
+
 ## How am I learning?
 
-The roadmap I’m following is inspired by KubeCraft (from Mischa van den Burg). I’m focusing on solid foundations in: Linux, Python, Go, Containers, Git, and Kubernetes… with an extra serving of Kubernetes (and then a bit more Kubernetes).
+The roadmap I’m following is inspired by KubeCraft (from Mischa van den Burg). I’m focusing on solid foundations in: Linux, Python, Go, Containers, Git, and Kubernetes… with an extra serving of Kubernetes (and then a bit more Kubernetes). As a complementary resource I'm also using KodeKloud to achieve the basics and the certifications that I'd love to have.
 
-I’m also building a HomeLab on a laptop to get hands-on with real setups. In my personal [Blog](https://www.oualidbouhorma.com) I’ll share what I’m running, what breaks, and what I add over time.
+I’m also building a HomeLab on a laptop to get hands-on with real setups. In my personal [Blog](https://www.oualidbouhorma.com) I’ll share what I’m running, what breaks, and what I add over time, as well as my notes and all the thoughts related to my passion.
 
-## Things I've Built
+## Things I've Built or I'm Building
 
-Soon...
+In order to get started into the foundations of the IT world, focusing on DevOps as well, I'm handling the following projects at this moment:
+1. Microsoft Entra ID (Azure) - Corporate Identity and Access Management (IAM)
+2. IT Service Desk Implementation - Enterprise Ticketing Lifecycle (osTicket)
+3. IT Technical Documentation at my [Blog](https://www.oualidbouhorma.com)
+4. IT Operations Automation - Systems Administration Scripts (Bash and Powershell)
+5. Network Infrastructure Simulation - Corporate LAN/WLAN Design
+
+All of the repositories related to each one of the projects are here, in GitHub!
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
