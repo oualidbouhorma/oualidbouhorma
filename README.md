@@ -35,10 +35,10 @@ All of the repositories related to each one of the projects are here, in GitHub!
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Models and Cloud Benefits](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f768b8237b6f6772f8a4a5ac539912bfc934c2f09d6649136dd81577cc2f421ffa7ac)
+- [Cloud Cost Basics: CAPEX vs OPEX](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f768b8237b6f6772f8a4a5ac539912bfc934c2f09d6649136dd81577cc2f421ffa4ac)
 - [Headless Arch Linux Server with Tailscale](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76808b39a7fe3f3e9c095ed1338d75bd9b4c3e5c967f943add81196dcfe378a1e6eb6f)
 - [Arch Part 5: Waybar, basic security, lock screen and shell tips](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9c821b7ed7ab60fd)
 - [Arch Part 4: Hyprland window manager, Bluetooth, window rules, and Vim keybindings on encrypted Arch Linux.](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9c821b7ed7ab61fd)
-- [Arch Part 3: Base packages, networking, bootloader, and user setup on encrypted Arch Linux.](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9c821b7ed7ab66fd)
-- [Arch Part 2: Disk partitioning, LUKS encryption, and base system installation.](https://rss.app/articles/cb4e791f6f6d729c04434f0c70c3b487021a122e0a37bdf3cfe3c9198a8b28d7ed0cb14f76899c3babbf36248151478e398b2ba5934e2745cf629a3d9c821b7ed7ab67fd)
 <!-- BLOG-POST-LIST:END -->
 
